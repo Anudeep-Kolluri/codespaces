@@ -1,0 +1,588 @@
+#,Occupation,Median wage (US),Projected growth (by 2031),Risk level,Risk level (voted),Job score,Popularity(100 is most viewed)
+1,Computer Programmers,"99,700",-9.60%,70.12%,60.91%,3.8/10,100
+2,Lawyers,"145,760",5.20%,22.98%,34.55%,7.7/10,71
+3,Web Developers,"84,960",9.00%,53.36%,69.02%,5.4/10,62
+4,Graphic Designers,"58,910",2.50%,47.11%,70.87%,4.1/10,55
+5,Accountants and Auditors,"79,880",5.80%,69.08%,59.63%,5.2/10,53
+6,Mechanical Engineers,"99,510",11.00%,30.38%,31.66%,7.9/10,39
+7,Computer Systems Engineers/Architects,"104,920",10.80%,33.59%,45.03%,7.1/10,37
+8,Civil Engineers,"95,890",6.50%,0.00%,28.61%,8.5/10,33
+9,Electrical Engineers,"106,950",9.10%,25.29%,27.82%,8.1/10,32
+10,Commercial Pilots,"113,080",5.70%,55.11%,41.30%,6.2/10,31
+11,"Bookkeeping, Accounting, and Auditing Clerks","47,440",-5.00%,100.00%,88.51%,2.2/10,30
+12,Marketing Managers,"157,620",8.20%,24.09%,53.03%,7.3/10,28
+13,Chemical Engineers,"112,100",9.80%,11.41%,24.23%,8.1/10,23
+14,Electrical and Electronic Engineering Technologists and Technicians,"72,800",3.00%,50.95%,39.00%,5.1/10,21
+15,Business Intelligence Analysts,"108,020",36.00%,73.52%,59.71%,5.9/10,16
+16,Postsecondary Teachers,"82,270",6.80%,16.86%,33.68%,7.7/10,14
+17,Financial and Investment Analysts,"99,010",9.50%,77.18%,63.66%,5.5/10,14
+18,Writers and Authors,"73,690",5.10%,60.22%,46.85%,4.9/10,14
+19,Video Game Designers,"98,540",7.90%,40.75%,39.72%,6.9/10,13
+20,Electricians,"61,590",10.80%,6.84%,15.51%,8.3/10,13
+21,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","35,550",-0.60%,56.15%,42.25%,3.8/10,12
+22,"Dentists, General","166,300",4.80%,0.00%,16.96%,8.2/10,12
+23,Nurse Practitioners,"126,260",46.30%,0.00%,15.49%,9.2/10,12
+24,Taxi Drivers,"34,680",13.30%,79.18%,88.39%,3.1/10,12
+25,Pharmacists,"136,030",5.40%,31.40%,64.90%,6.2/10,12
+26,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers","63,280",-0.10%,10.52%,38.90%,5.8/10,11
+27,Clinical and Counseling Psychologists,"96,100",13.30%,10.63%,28.41%,8.4/10,11
+28,Computer Hardware Engineers,"138,080",7.20%,35.46%,20.97%,7.9/10,11
+29,"Architects, Except Landscape and Naval","93,310",7.80%,0.00%,34.61%,8.0/10,11
+30,Veterinarians,"119,100",19.10%,6.83%,19.13%,8.8/10,11
+31,Interpreters and Translators,"57,090",2.30%,70.40%,72.49%,3.1/10,11
+32,"Airline Pilots, Copilots, and Flight Engineers","219,140",5.00%,65.46%,37.74%,5.9/10,11
+33,Database Architects,"134,700",10.80%,50.65%,46.08%,6.8/10,11
+34,Software Quality Assurance Analysts and Testers,"101,800",11.80%,58.48%,58.79%,6.1/10,11
+35,Information Security Analysts,"120,360",32.70%,57.98%,44.18%,6.8/10,11
+36,Actuaries,"120,000",21.80%,60.91%,38.27%,6.6/10,11
+37,Information Technology Project Managers,"104,920",10.80%,21.76%,29.42%,8.0/10,11
+38,Bioengineers and Biomedical Engineers,"100,730",7.40%,1.45%,30.86%,7.6/10,11
+39,Aerospace Engineers,"130,720",6.00%,38.75%,25.80%,7.7/10,10
+40,Police and Sheriff's Patrol Officers,"72,280",3.90%,6.40%,22.73%,7.4/10,10
+41,Dietitians and Nutritionists,"69,680",7.40%,8.31%,51.37%,6.3/10,10
+42,Psychiatrists,"226,880",7.60%,0.00%,26.63%,8.6/10,10
+43,Architectural and Civil Drafters,"61,820",1.10%,45.89%,52.39%,4.4/10,10
+44,Statisticians,"104,110",11.80%,51.70%,62.54%,5.9/10,10
+45,Financial Managers,"156,100",16.50%,59.87%,49.53%,6.7/10,10
+46,Chemists,"84,680",7.60%,45.91%,33.50%,6.8/10,10
+47,Personal Financial Advisors,"99,580",17.10%,43.44%,42.94%,7.0/10,9
+48,Human Resources Managers,"136,350",6.50%,12.15%,38.61%,7.7/10,9
+49,"Electronics Engineers, Except Computer","119,200",9.10%,45.58%,32.45%,7.5/10,9
+50,Economists,"115,730",5.10%,50.52%,44.69%,5.6/10,9
+51,Physicists,"155,680",7.20%,0.58%,16.39%,8.3/10,9
+52,Film and Video Editors,"66,600",4.70%,71.94%,52.74%,4.1/10,9
+53,Radiologic Technologists and Technicians,"73,410",5.80%,58.23%,39.52%,5.6/10,9
+54,Chefs and Head Cooks,"58,920",8.30%,9.03%,29.93%,7.2/10,9
+55,"Plumbers, Pipefitters, and Steamfitters","61,550",5.60%,21.95%,22.38%,7.3/10,9
+56,Database Administrators,"101,510",8.20%,57.16%,54.69%,5.9/10,9
+57,Computer Systems Analysts,"103,800",10.70%,64.63%,35.03%,6.9/10,9
+58,General Internal Medicine Physicians,"223,310",3.40%,0.00%,32.99%,7.5/10,9
+59,Computer and Information Systems Managers,"169,510",17.40%,38.51%,33.20%,8.3/10,9
+60,Data Warehousing Specialists,"134,700",10.80%,77.03%,58.44%,5.9/10,8
+61,Robotics Engineers,"111,970",5.00%,18.67%,23.26%,7.6/10,8
+62,Producers and Directors,"82,510",8.00%,32.85%,24.57%,7.7/10,8
+63,Special Effects Artists and Animators,"99,060",4.30%,69.59%,58.40%,4.6/10,8
+64,Physical Therapists,"99,710",14.20%,0.00%,23.38%,8.8/10,8
+65,Computer and Information Research Scientists,"145,080",25.60%,31.26%,28.81%,7.7/10,8
+66,Naturopathic Physicians,"107,990",2.60%,3.16%,42.19%,6.4/10,8
+67,Financial Quantitative Analysts,"78,310",6.20%,70.10%,47.22%,5.3/10,8
+68,Mathematicians,"116,440",3.70%,28.14%,27.95%,6.8/10,8
+69,Sales Managers,"135,160",5.90%,28.76%,37.31%,7.9/10,8
+70,Biochemists and Biophysicists,"107,460",9.00%,2.23%,29.88%,8.0/10,8
+71,Network and Computer Systems Administrators,"95,360",-2.60%,57.94%,38.57%,5.1/10,8
+72,Mechatronics Engineers,"111,970",5.00%,48.16%,29.56%,6.9/10,7
+73,Food Scientists and Technologists,"82,090",8.90%,43.51%,33.46%,6.4/10,7
+74,Registered Nurses,"86,070",6.00%,9.59%,22.48%,8.3/10,7
+75,Diagnostic Medical Sonographers,"84,470",15.10%,48.92%,37.92%,6.8/10,7
+76,Physician Assistants,"130,020",28.50%,0.00%,30.82%,8.7/10,7
+77,Fashion Designers,"79,290",4.70%,22.56%,32.06%,6.5/10,7
+78,Security Guards,"37,070",2.20%,41.58%,44.45%,4.3/10,7
+79,Cashiers,"29,720",-10.60%,87.61%,94.35%,1.4/10,7
+80,Carpenters,"56,350",4.20%,17.47%,33.21%,6.3/10,7
+81,Air Traffic Controllers,"137,380",2.90%,48.61%,46.84%,5.4/10,7
+82,Chief Executives,"206,680",5.50%,0.00%,23.48%,8.3/10,7
+83,Athletes and Sports Competitors,"70,280",11.10%,16.19%,12.67%,7.8/10,7
+84,"News Analysts, Reporters, and Journalists","57,500",-2.70%,49.00%,62.84%,3.3/10,7
+85,Retail Salespersons,"33,680",0.10%,68.53%,73.31%,2.5/10,7
+86,Occupational Therapists,"96,370",11.10%,0.00%,19.28%,8.9/10,7
+87,Search Marketing Strategists,"74,680",8.30%,59.03%,55.53%,5.6/10,7
+88,Family Medicine Physicians,"224,640",4.80%,18.61%,14.20%,8.0/10,7
+89,Management Analysts,"99,410",10.60%,20.79%,35.52%,7.9/10,7
+90,Computer User Support Specialists,"59,240",5.10%,58.61%,53.95%,4.7/10,6
+91,Mental Health Counselors,"53,710",18.80%,0.00%,26.14%,8.0/10,6
+92,Solar Energy Systems Engineers,"111,970",5.00%,19.86%,42.50%,6.7/10,6
+93,Petroleum Engineers,"135,690",2.40%,29.53%,32.62%,6.5/10,6
+94,Biologists,"91,100",5.60%,1.48%,24.66%,7.7/10,6
+95,Photographers,"40,760",3.90%,34.33%,44.62%,4.2/10,6
+96,"Fine Artists, Including Painters, Sculptors, and Illustrators","59,300",4.00%,64.27%,37.20%,4.4/10,6
+97,Detectives and Criminal Investigators,"91,100",2.30%,10.07%,21.75%,7.1/10,6
+98,Nurse Anesthetists,"212,650",10.40%,0.00%,36.25%,8.0/10,6
+99,Speech-Language Pathologists,"89,290",18.40%,8.69%,20.92%,8.6/10,6
+100,"Cooks, Restaurant","35,780",17.00%,61.66%,31.91%,5.6/10,6
+1,Pharmacy Technicians,"40,300",7.20%,66.67%,66.44%,3.9/10,6
+2,Waiters and Waitresses,"31,940",1.00%,70.25%,66.74%,2.5/10,6
+3,Telemarketers,"34,480",-21.50%,97.49%,90.18%,0.9/10,6
+4,Insurance Sales Agents,"59,080",6.10%,80.02%,57.34%,4.6/10,6
+5,Optometrists,"131,860",8.70%,22.39%,48.09%,7.2/10,6
+6,Data Entry Keyers,"37,790",-25.00%,100.00%,90.63%,1.3/10,6
+7,Flight Attendants,"68,370",9.90%,37.52%,25.96%,7.3/10,6
+8,Coaches and Scouts,"45,910",8.80%,0.00%,22.03%,7.5/10,6
+9,Craft Artists,"36,600",2.20%,54.13%,37.88%,3.2/10,6
+10,Art Directors,"106,500",5.20%,37.31%,31.02%,6.9/10,6
+11,"Pediatricians, General","198,690",2.10%,2.11%,21.18%,7.5/10,6
+12,Barbers,"36,150",6.40%,62.15%,31.55%,4.5/10,6
+13,Customer Service Representatives,"39,680",-5.00%,78.87%,82.80%,2.2/10,6
+14,Bioinformatics Scientists,"91,100",5.60%,25.42%,45.95%,6.3/10,6
+15,Automotive Engineers,"99,510",11.00%,25.36%,33.01%,8.2/10,6
+16,Health Informatics Specialists,"103,800",10.70%,17.86%,68.57%,6.7/10,6
+17,Human Resources Specialists,"67,650",7.90%,55.76%,47.40%,6.3/10,6
+18,Security Managers,"102,340",5.30%,0.00%,24.43%,8.0/10,6
+19,Loan Officers,"69,990",1.40%,78.90%,61.56%,3.9/10,6
+20,Historians,"72,890",5.70%,34.75%,28.63%,6.3/10,6
+21,Construction Managers,"104,900",9.10%,3.15%,22.63%,8.9/10,6
+22,"Farmers, Ranchers, and Other Agricultural Managers","83,770",-1.60%,25.16%,37.95%,4.9/10,6
+23,Materials Scientists,"106,160",8.70%,30.07%,33.53%,6.8/10,6
+24,Urban and Regional Planners,"81,800",4.30%,0.64%,22.45%,7.6/10,6
+25,Stockers and Order Fillers,"36,390",5.90%,77.08%,73.80%,3.4/10,5
+26,Customs Brokers,"75,670",5.40%,85.36%,61.43%,4.6/10,5
+27,Supply Chain Managers,"99,200",9.00%,36.73%,42.76%,7.0/10,5
+28,Podiatrists,"141,650",1.40%,12.87%,31.70%,6.4/10,5
+29,Architectural and Engineering Managers,"165,370",5.50%,19.02%,30.67%,7.7/10,5
+30,Fire-Prevention and Protection Engineers,"103,690",5.10%,7.08%,33.33%,6.7/10,5
+31,Environmental Engineers,"100,090",6.90%,3.05%,29.45%,7.8/10,5
+32,Surveyors,"68,540",5.90%,30.28%,40.87%,6.2/10,5
+33,Environmental Economists,"115,730",5.10%,51.89%,39.58%,5.6/10,5
+34,Credit Analysts,"79,420",-3.90%,100.00%,68.17%,3.0/10,5
+35,Budget Analysts,"84,940",3.90%,88.20%,62.28%,4.0/10,5
+36,"Energy Engineers, Except Wind and Solar","111,970",5.00%,11.07%,35.00%,7.3/10,5
+37,Astronomers,"127,930",7.40%,12.13%,30.79%,7.4/10,5
+38,School Psychologists,"84,940",0.70%,25.58%,26.24%,6.3/10,5
+39,Mechanical Engineering Technologists and Technicians,"64,020",1.90%,42.97%,39.51%,4.9/10,5
+40,Paralegals and Legal Assistants,"60,970",1.20%,89.82%,63.71%,3.3/10,5
+41,"Secondary School Teachers, Except Special and Career/Technical Education","65,220",-0.60%,16.27%,38.87%,5.8/10,5
+42,Healthcare Social Workers,"62,940",9.70%,0.00%,22.90%,8.1/10,5
+43,"Elementary School Teachers, Except Special Education","63,680",-0.70%,10.55%,27.40%,6.5/10,5
+44,"Philosophy and Religion Teachers, Postsecondary","79,930",2.00%,26.60%,22.40%,6.5/10,5
+45,"Foreign Language and Literature Teachers, Postsecondary","78,760",1.00%,44.68%,48.42%,4.7/10,5
+46,Sports Medicine Physicians,"236,000",3.90%,0.00%,16.43%,8.5/10,5
+47,"Camera Operators, Television, Video, and Film","61,800",1.90%,58.29%,52.86%,3.9/10,5
+48,Intelligence Analysts,"91,100",2.30%,51.07%,43.65%,5.1/10,5
+49,Interior Designers,"62,510",4.00%,10.49%,39.35%,5.9/10,5
+50,Medical and Clinical Laboratory Technicians,"60,780",5.30%,78.65%,53.79%,4.8/10,5
+51,Firefighters,"57,120",4.20%,0.00%,16.43%,7.3/10,5
+52,Court Reporters and Simultaneous Captioners,"63,940",1.80%,100.00%,75.88%,2.3/10,5
+53,Medical Assistants,"42,000",15.00%,41.22%,44.39%,5.6/10,5
+54,Music Directors and Composers,"62,590",2.70%,21.23%,35.32%,5.3/10,5
+55,"Poets, Lyricists and Creative Writers","73,690",5.10%,54.16%,33.58%,5.6/10,5
+56,Technical Writers,"80,050",4.00%,93.58%,54.46%,4.2/10,5
+57,Postal Service Mail Carriers,"56,330",-3.00%,100.00%,54.61%,2.8/10,5
+58,Real Estate Brokers,"63,060",2.00%,58.42%,47.59%,4.2/10,5
+59,Anesthesiologist Assistants,"130,020",28.50%,29.00%,35.23%,8.0/10,5
+60,Couriers and Messengers,"36,710",8.30%,96.12%,69.14%,3.0/10,5
+61,Models,"47,430",-0.40%,89.36%,48.38%,2.7/10,5
+62,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","35,020",3.10%,75.75%,59.01%,2.9/10,5
+63,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","57,300",9.10%,19.74%,20.02%,7.6/10,5
+64,Automotive Service Technicians and Mechanics,"47,770",2.70%,58.11%,36.34%,4.7/10,5
+65,Bakers,"34,950",5.20%,84.12%,61.98%,3.2/10,5
+66,Sailors and Marine Oilers,"48,400",3.50%,58.20%,40.13%,4.1/10,5
+67,Heavy and Tractor-Trailer Truck Drivers,"54,320",4.60%,85.61%,47.00%,4.5/10,5
+68,Driver/Sales Workers,"35,420",9.20%,92.68%,78.46%,3.3/10,5
+69,Editors,"75,020",-2.00%,51.05%,47.04%,4.3/10,5
+70,Computer Network Support Specialists,"71,530",7.30%,64.84%,54.20%,5.4/10,5
+71,Skincare Specialists,"43,200",10.30%,45.42%,32.05%,5.9/10,5
+72,Medical and Clinical Laboratory Technologists,"60,780",5.30%,58.34%,53.33%,5.1/10,5
+73,Neurologists,"224,260",6.80%,0.00%,24.08%,8.0/10,5
+74,Aircraft Mechanics and Service Technicians,"75,020",5.20%,43.50%,24.36%,6.7/10,5
+75,Investment Fund Managers,"156,100",16.50%,62.16%,45.23%,7.0/10,5
+76,Fast Food and Counter Workers,"29,540",5.70%,96.21%,92.10%,2.5/10,5
+77,Computer Network Architects,"129,840",13.40%,40.78%,37.92%,7.4/10,5
+78,Materials Engineers,"104,100",7.40%,19.78%,23.33%,7.5/10,5
+79,Marine Engineers and Naval Architects,"100,270",8.00%,10.24%,25.89%,7.7/10,5
+80,Biostatisticians,"104,110",11.80%,36.16%,37.50%,7.0/10,5
+81,"Meeting, Convention, and Event Planners","56,920",6.60%,10.64%,29.07%,6.9/10,5
+82,Compliance Officers,"75,670",5.40%,55.87%,43.88%,5.8/10,5
+83,Operations Research Analysts,"83,640",23.00%,42.10%,38.10%,6.9/10,5
+84,Tax Preparers,"49,010",4.20%,99.13%,73.21%,2.8/10,5
+85,Logistics Analysts,"79,400",19.30%,56.52%,60.64%,6.1/10,5
+86,Political Scientists,"132,350",2.60%,28.89%,20.60%,6.8/10,5
+87,Zoologists and Wildlife Biologists,"70,600",4.40%,13.83%,24.23%,6.7/10,5
+88,Microbiologists,"85,470",6.70%,33.56%,32.79%,6.7/10,5
+89,Mechanical Drafters,"64,060",-4.90%,63.22%,58.24%,3.3/10,5
+90,Logistics Engineers,"79,400",19.30%,34.00%,47.50%,7.0/10,5
+91,Manufacturing Engineers,"99,380",12.20%,20.45%,39.86%,7.8/10,5
+92,Human Factors Engineers and Ergonomists,"99,380",12.20%,16.91%,40.48%,8.0/10,5
+93,Industrial Engineers,"99,380",12.20%,54.79%,36.73%,7.3/10,5
+94,Refuse and Recyclable Material Collectors,"45,760",2.30%,100.00%,71.27%,2.2/10,4
+95,Crane and Tower Operators,"64,690",3.70%,78.26%,48.08%,4.2/10,4
+96,Passenger Attendants,"35,620",5.80%,80.45%,72.00%,2.7/10,4
+97,"Potters, Manufacturing","43,310",5.30%,70.61%,45.83%,4.0/10,4
+98,Critical Care Nurses,"86,070",6.00%,0.00%,23.72%,8.3/10,4
+99,Market Research Analysts and Marketing Specialists,"74,680",8.30%,44.17%,52.32%,6.3/10,4
+100,Fallers,"53,170",-8.40%,100.00%,58.33%,1.8/10,4
+1,Quality Control Systems Managers,"116,970",2.80%,36.08%,35.23%,6.5/10,4
+2,Surveying and Mapping Technicians,"48,940",5.60%,68.05%,60.85%,4.0/10,4
+3,Wind Energy Engineers,"111,970",5.00%,38.31%,25.00%,6.4/10,4
+4,Photonics Engineers,"111,970",5.00%,39.09%,32.69%,6.4/10,4
+5,Agricultural Engineers,"88,750",7.80%,11.99%,38.73%,6.7/10,4
+6,Marriage and Family Therapists,"58,510",16.20%,0.00%,25.00%,7.7/10,4
+7,Training and Development Specialists,"64,340",11.50%,20.49%,38.45%,7.1/10,4
+8,Landscape Architects,"79,320",4.70%,0.00%,37.06%,6.7/10,4
+9,"Mathematical Science Teachers, Postsecondary","81,020",3.30%,41.26%,31.82%,6.0/10,4
+10,Industrial-Organizational Psychologists,"147,420",5.80%,6.28%,25.43%,7.4/10,4
+11,Nuclear Engineers,"125,460",-0.80%,21.79%,21.10%,6.6/10,4
+12,"Mining and Geological Engineers, Including Mining Safety Engineers","100,640",2.00%,32.09%,33.49%,5.6/10,4
+13,Clergy,"58,920",2.50%,3.79%,9.33%,6.5/10,4
+14,"Geoscientists, Except Hydrologists and Geographers","92,580",5.50%,19.60%,31.42%,6.8/10,4
+15,Food Science Technicians,"49,090",7.30%,86.04%,81.67%,3.1/10,4
+16,"History Teachers, Postsecondary","82,140",0.90%,28.13%,30.10%,5.8/10,4
+17,"English Language and Literature Teachers, Postsecondary","78,130",1.10%,14.52%,40.96%,5.6/10,4
+18,"Education Teachers, Postsecondary","73,240",3.30%,15.11%,37.62%,6.1/10,4
+19,Sound Engineering Technicians,"59,430",-0.50%,55.17%,31.48%,4.5/10,4
+20,"Psychology Teachers, Postsecondary","82,140",5.00%,0.00%,34.91%,6.9/10,4
+21,Parking Enforcement Workers,"46,840",-0.40%,66.59%,79.81%,2.1/10,4
+22,Paramedics,"53,180",5.90%,0.00%,11.83%,7.6/10,4
+23,Emergency Medical Technicians,"38,930",6.10%,0.00%,14.42%,7.0/10,4
+24,Nurse Midwives,"129,650",7.10%,0.00%,21.88%,8.1/10,4
+25,Dental Assistants,"46,540",8.40%,51.40%,40.45%,5.5/10,4
+26,Respiratory Therapists,"77,960",13.10%,27.04%,35.06%,7.3/10,4
+27,Recreational Therapists,"57,120",4.30%,0.00%,23.21%,6.5/10,4
+28,Bartenders,"31,510",8.80%,49.02%,60.44%,4.5/10,4
+29,Nursing Assistants,"38,200",4.40%,47.55%,38.14%,4.9/10,4
+30,Amusement and Recreation Attendants,"29,390",4.50%,75.53%,36.61%,4.2/10,4
+31,Massage Therapists,"55,310",17.70%,20.55%,29.74%,7.0/10,4
+32,Choreographers,"52,000",5.30%,0.00%,22.12%,6.5/10,4
+33,Private Detectives and Investigators,"49,540",5.00%,62.31%,27.88%,5.0/10,4
+34,Landscaping and Groundskeeping Workers,"37,360",5.10%,83.64%,41.61%,4.0/10,4
+35,Sales Engineers,"116,950",6.30%,43.78%,32.34%,7.2/10,4
+36,Real Estate Sales Agents,"54,300",1.80%,35.14%,52.42%,4.7/10,4
+37,Surgical Technologists,"60,610",5.80%,40.15%,47.01%,5.5/10,4
+38,Psychiatric Technicians,"39,700",17.10%,26.35%,18.18%,6.9/10,4
+39,"Opticians, Dispensing","44,170",2.90%,59.49%,50.34%,3.4/10,4
+40,Tree Trimmers and Pruners,"49,070",4.80%,63.95%,41.30%,4.5/10,4
+41,Maids and Housekeeping Cleaners,"33,450",0.80%,77.70%,65.90%,2.5/10,4
+42,Baristas,"29,540",5.70%,74.23%,64.58%,3.4/10,4
+43,Licensed Practical and Licensed Vocational Nurses,"59,730",2.60%,24.49%,26.15%,6.3/10,4
+44,Bill and Account Collectors,"44,250",-9.50%,100.00%,67.58%,1.8/10,4
+45,Telephone Operators,"38,080",-26.40%,100.00%,85.12%,0.7/10,4
+46,Cargo and Freight Agents,"48,330",9.70%,77.30%,73.08%,4.2/10,4
+47,Receptionists and Information Clerks,"35,840",-0.50%,100.00%,83.08%,1.8/10,4
+48,"Ophthalmologists, Except Pediatric","219,810",4.50%,9.20%,17.95%,7.5/10,4
+49,"Painters, Construction and Maintenance","47,700",4.00%,53.28%,40.06%,4.8/10,4
+50,Construction Laborers,"45,300",8.20%,55.60%,52.19%,5.2/10,4
+51,Food Cooking Machine Operators and Tenders,"38,550",1.00%,100.00%,76.00%,1.4/10,4
+52,Laundry and Dry-Cleaning Workers,"31,050",5.50%,93.05%,66.22%,2.9/10,4
+53,Locomotive Engineers,"74,770",1.30%,80.10%,56.48%,3.4/10,4
+54,Locksmiths and Safe Repairers,"48,380",-9.90%,52.30%,34.69%,3.6/10,4
+55,Geothermal Technicians,"46,500",3.60%,49.88%,60.00%,4.3/10,4
+56,"Welders, Cutters, Solderers, and Brazers","48,940",2.00%,91.17%,44.68%,3.7/10,4
+57,Dental Laboratory Technicians,"47,690",-4.20%,74.57%,67.05%,2.3/10,4
+58,Machinists,"50,840",1.70%,78.69%,52.96%,3.5/10,4
+59,Textile Bleaching and Dyeing Machine Operators and Tenders,"35,340",-10.30%,100.00%,75.00%,0.4/10,4
+60,"Bus Drivers, School","45,660",1.00%,89.53%,60.19%,2.8/10,4
+61,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","39,340",4.50%,100.00%,80.65%,2.0/10,4
+62,Jewelers and Precious Stone and Metal Workers,"47,450",-3.70%,77.17%,50.00%,2.8/10,4
+63,Railroad Conductors and Yardmasters,"71,130",1.90%,67.29%,62.35%,4.0/10,4
+64,Tire Builders,"54,080",3.10%,100.00%,73.44%,2.4/10,4
+65,Computer Numerically Controlled Tool Programmers,"63,440",14.90%,75.47%,60.19%,4.8/10,4
+66,General and Operations Managers,"101,280",5.80%,38.70%,32.16%,7.4/10,4
+67,Telecommunications Engineering Specialists,"129,840",13.40%,32.96%,42.57%,7.4/10,4
+68,"Fraud Examiners, Investigators and Analysts","78,310",6.20%,52.06%,50.00%,5.5/10,4
+69,Dental Hygienists,"87,530",9.20%,43.63%,35.04%,7.0/10,4
+70,"Maintenance Workers, Machinery","57,350",7.80%,66.28%,36.39%,5.6/10,4
+71,"Hairdressers, Hairstylists, and Cosmetologists","34,970",7.10%,29.77%,27.51%,6.2/10,4
+72,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","44,280",-0.30%,94.81%,71.99%,2.7/10,4
+73,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","65,630",0.70%,70.53%,50.78%,4.0/10,4
+74,Exercise Trainers and Group Fitness Instructors,"46,480",13.60%,2.92%,34.90%,7.0/10,4
+75,Clinical Nurse Specialists,"86,070",6.00%,0.00%,23.21%,8.3/10,4
+76,Commercial and Industrial Designers,"76,250",3.10%,47.07%,31.42%,5.5/10,4
+77,"Biological Science Teachers, Postsecondary","83,920",8.40%,5.15%,36.22%,7.6/10,4
+78,"Judges, Magistrate Judges, and Magistrates","148,910",3.40%,18.49%,27.04%,7.0/10,4
+79,Quality Control Analysts,"58,350",5.80%,82.75%,54.59%,3.9/10,4
+80,Purchasing Managers,"136,380",5.10%,38.47%,44.38%,6.3/10,4
+81,Fuel Cell Engineers,"99,510",11.00%,34.66%,62.50%,7.2/10,4
+82,Transportation Engineers,"95,890",6.50%,7.94%,30.83%,8.0/10,4
+83,Treasurers and Controllers,"156,100",16.50%,49.18%,48.86%,7.0/10,4
+84,Administrative Services Managers,"106,470",6.20%,42.70%,45.08%,6.5/10,4
+85,Occupational Health and Safety Specialists,"81,140",14.90%,10.11%,32.98%,8.0/10,4
+86,Sustainability Specialists,"79,590",5.40%,23.56%,33.57%,7.2/10,4
+87,Forensic Science Technicians,"64,940",13.60%,40.29%,32.33%,6.5/10,4
+88,Logisticians,"79,400",19.30%,37.72%,45.12%,7.0/10,4
+89,Anthropologists and Archeologists,"63,800",7.80%,0.00%,18.94%,7.5/10,4
+90,Natural Sciences Managers,"157,740",7.50%,23.05%,41.18%,7.2/10,4
+91,"Environmental Scientists and Specialists, Including Health","78,980",7.30%,31.17%,26.61%,7.2/10,4
+92,Atmospheric and Space Scientists,"92,860",5.60%,23.01%,39.66%,6.4/10,4
+93,Validation Engineers,"99,380",12.20%,56.45%,48.44%,6.9/10,4
+94,Credit Counselors,"48,570",4.90%,64.25%,39.29%,4.1/10,4
+95,Medical and Health Services Managers,"110,680",28.50%,16.32%,35.25%,8.2/10,4
+96,Training and Development Managers,"125,040",7.30%,14.48%,34.54%,7.6/10,4
+97,Cleaners of Vehicles and Equipment,"34,150",4.40%,84.62%,58.13%,3.1/10,3
+98,Industrial Truck and Tractor Operators,"44,470",2.70%,90.86%,69.95%,2.9/10,3
+99,Hoist and Winch Operators,"55,950",-0.50%,85.99%,91.67%,2.9/10,3
+100,Aviation Inspectors,"87,290",3.90%,28.91%,42.65%,5.7/10,3
+1,Transportation Planners,"95,890",3.40%,18.30%,38.10%,6.1/10,3
+2,Advertising and Promotions Managers,"131,870",-2.60%,31.54%,37.33%,5.4/10,3
+3,Cost Estimators,"74,740",-3.60%,54.26%,48.91%,4.3/10,3
+4,Insurance Underwriters,"77,860",-4.00%,82.72%,70.19%,3.1/10,3
+5,Industrial Production Managers,"116,970",2.80%,40.16%,33.72%,6.3/10,3
+6,Animal Scientists,"70,140",7.90%,19.01%,27.21%,7.0/10,3
+7,Sociologists,"101,770",6.90%,16.08%,21.84%,7.7/10,3
+8,Coroners,"75,670",5.40%,15.08%,16.25%,7.8/10,3
+9,Dredge Operators,"50,440",2.10%,100.00%,88.64%,2.7/10,3
+10,Shoe Machine Operators and Tenders,"36,970",-13.60%,100.00%,91.01%,0.7/10,3
+11,"Agents and Business Managers of Artists, Performers, and Athletes","84,900",9.20%,53.57%,30.60%,6.4/10,3
+12,"Transportation, Storage, and Distribution Managers","99,200",9.00%,32.33%,47.85%,7.0/10,3
+13,"Medical Scientists, Except Epidemiologists","100,890",11.50%,22.36%,28.13%,8.2/10,3
+14,Environmental Engineering Technologists and Technicians,"54,000",2.30%,38.39%,33.33%,4.4/10,3
+15,Clinical Neuropsychologists,"117,750",5.00%,0.00%,25.83%,7.6/10,3
+16,Photonics Technicians,"73,500",4.40%,73.07%,35.00%,4.8/10,3
+17,Microsystems Engineers,"111,970",5.00%,40.20%,41.67%,6.2/10,3
+18,Geodetic Surveyors,"68,540",5.90%,45.02%,42.19%,6.0/10,3
+19,Compensation and Benefits Managers,"136,380",2.10%,46.89%,63.52%,4.9/10,3
+20,Probation Officers and Correctional Treatment Specialists,"61,800",3.60%,22.42%,30.49%,6.1/10,3
+21,Aerospace Engineering and Operations Technologists and Technicians,"77,830",7.90%,56.15%,42.61%,5.5/10,3
+22,"Compensation, Benefits, and Job Analysis Specialists","74,530",7.00%,53.32%,53.33%,5.5/10,3
+23,Robotics Technicians,"65,080",-1.20%,49.68%,44.68%,3.8/10,3
+24,Nanosystems Engineers,"111,970",5.00%,18.11%,37.50%,6.7/10,3
+25,Health Education Specialists,"62,860",7.00%,3.02%,34.00%,6.9/10,3
+26,Document Management Specialists,"104,920",10.80%,67.57%,80.00%,5.8/10,3
+27,Web Administrators,"104,920",10.80%,53.26%,58.70%,6.4/10,3
+28,Bioinformatics Technicians,"70,620",6.90%,62.69%,57.14%,4.9/10,3
+29,Clinical Data Managers,"108,020",36.00%,52.14%,62.50%,6.3/10,3
+30,"Chemistry Teachers, Postsecondary","85,810",3.40%,16.90%,38.64%,5.8/10,3
+31,"Computer Science Teachers, Postsecondary","96,430",6.10%,29.12%,53.66%,6.5/10,3
+32,"Business Teachers, Postsecondary","97,130",6.70%,45.14%,45.65%,6.3/10,3
+33,Epidemiologists,"81,390",18.80%,6.71%,29.84%,7.5/10,3
+34,Conservation Scientists,"68,750",5.60%,13.66%,27.00%,7.0/10,3
+35,Geneticists,"91,100",5.60%,20.21%,29.17%,7.0/10,3
+36,Automotive Engineering Technicians,"64,020",1.90%,48.29%,64.29%,4.7/10,3
+37,"Engineering Teachers, Postsecondary","106,910",9.20%,22.60%,49.46%,6.7/10,3
+38,Molecular and Cellular Biologists,"91,100",5.60%,12.33%,25.00%,7.5/10,3
+39,Social and Human Service Assistants,"41,410",7.90%,17.95%,31.09%,6.4/10,3
+40,Mental Health and Substance Abuse Social Workers,"55,960",11.60%,0.00%,10.87%,8.0/10,3
+41,Rehabilitation Counselors,"44,040",1.80%,16.72%,31.94%,5.4/10,3
+42,"Special Education Teachers, Preschool","65,270",1.60%,11.02%,11.25%,6.1/10,3
+43,Hydrologists,"88,770",2.80%,6.65%,25.00%,6.3/10,3
+44,Environmental Restoration Planners,"78,980",7.30%,2.49%,25.00%,7.0/10,3
+45,Chiropractors,"76,530",9.90%,3.96%,20.53%,8.0/10,3
+46,Tutors,"39,580",0.70%,44.45%,45.59%,3.8/10,3
+47,"Special Education Teachers, Kindergarten","64,910",-0.70%,5.76%,19.05%,6.5/10,3
+48,Genetic Counselors,"95,770",16.10%,28.51%,33.33%,7.2/10,3
+49,Athletic Trainers,"57,930",12.70%,0.00%,25.60%,7.5/10,3
+50,Midwives,"63,630",5.80%,0.00%,15.97%,7.4/10,3
+51,"Criminal Justice and Law Enforcement Teachers, Postsecondary","69,030",2.90%,32.37%,30.88%,5.5/10,3
+52,"Law Teachers, Postsecondary","127,360",2.20%,31.69%,32.35%,6.3/10,3
+53,"Library Science Teachers, Postsecondary","80,310",4.20%,26.77%,0.00%,5.6/10,3
+54,Animal Control Workers,"43,170",4.90%,38.72%,36.54%,4.4/10,3
+55,Neurodiagnostic Technologists,"47,470",7.00%,53.35%,38.89%,5.2/10,3
+56,"Child, Family, and School Social Workers","53,940",4.90%,10.92%,18.40%,7.1/10,3
+57,Instructional Coordinators,"74,620",1.80%,19.22%,36.46%,6.1/10,3
+58,Media Programming Directors,"82,510",8.00%,38.76%,67.50%,6.8/10,3
+59,Set and Exhibit Designers,"59,490",5.10%,13.02%,33.33%,5.7/10,3
+60,"Career/Technical Education Teachers, Secondary School","65,130",-0.80%,8.15%,31.50%,5.7/10,3
+61,Nuclear Medicine Technologists,"92,500",-1.30%,49.99%,34.30%,4.7/10,3
+62,Preventive Medicine Physicians,"236,000",3.90%,0.00%,42.31%,7.3/10,3
+63,"Communications Teachers, Postsecondary","79,910",3.30%,15.22%,54.55%,5.9/10,3
+64,Cardiovascular Technologists and Technicians,"66,170",4.20%,56.32%,38.10%,5.1/10,3
+65,Physical Medicine and Rehabilitation Physicians,"236,000",3.90%,0.00%,25.74%,8.2/10,3
+66,Music Therapists,"63,650",11.80%,0.00%,37.79%,7.0/10,3
+67,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","99,710",3.10%,62.99%,38.12%,5.8/10,3
+68,Broadcast Technicians,"57,690",0.10%,62.01%,59.82%,3.2/10,3
+69,Audio and Video Technicians,"51,640",5.30%,45.73%,37.23%,5.4/10,3
+70,Orthodontists,"174,360",3.70%,14.03%,31.36%,6.8/10,3
+71,Histology Technicians,"60,780",5.30%,84.60%,70.59%,4.2/10,3
+72,Histotechnologists,"60,780",5.30%,84.60%,55.00%,4.9/10,3
+73,Cytotechnologists,"60,780",5.30%,93.55%,73.53%,3.9/10,3
+74,Magnetic Resonance Imaging Technologists,"83,740",8.40%,50.89%,44.23%,6.0/10,3
+75,Correctional Officers and Jailers,"53,300",-6.70%,35.32%,36.46%,4.8/10,3
+76,Audiologists,"87,740",10.90%,12.53%,71.74%,6.2/10,3
+77,Fire Inspectors and Investigators,"74,160",4.50%,4.15%,32.69%,6.7/10,3
+78,Hearing Aid Specialists,"58,670",14.90%,48.94%,48.08%,5.5/10,3
+79,Exercise Physiologists,"54,860",10.40%,4.17%,39.77%,6.4/10,3
+80,"Postal Service Mail Sorters, Processors, and Processing Machine Operators","53,440",-7.90%,100.00%,72.37%,2.2/10,3
+81,"Cooks, Fast Food","29,260",-13.70%,100.00%,75.57%,1.4/10,3
+82,Transportation Security Screeners,"50,020",0.90%,61.73%,62.50%,3.6/10,3
+83,Radiation Therapists,"98,300",3.10%,32.21%,39.22%,5.6/10,3
+84,Allergists and Immunologists,"236,000",3.90%,7.73%,32.50%,7.8/10,3
+85,Veterinary Technologists and Technicians,"43,740",19.30%,31.61%,23.01%,6.9/10,3
+86,Pest Control Workers,"43,470",7.00%,49.66%,26.33%,5.7/10,3
+87,Food Preparation Workers,"32,420",-3.80%,75.71%,69.53%,2.2/10,3
+88,Crossing Guards and Flaggers,"36,370",4.50%,92.63%,72.44%,2.5/10,3
+89,Postal Service Clerks,"59,570",-3.00%,86.58%,84.02%,2.3/10,3
+90,Travel Agents,"47,410",3.40%,80.79%,68.57%,2.9/10,3
+91,Medical Records Specialists,"48,780",8.70%,97.09%,67.97%,3.8/10,3
+92,Helpers--Roofers,"38,620",5.60%,36.78%,46.88%,4.3/10,3
+93,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","37,650",5.90%,52.60%,21.77%,5.6/10,3
+94,Bailiffs,"53,040",-1.40%,56.40%,26.25%,4.5/10,3
+95,Animal Caretakers,"31,200",16.60%,56.04%,30.87%,5.6/10,3
+96,Animal Trainers,"38,810",6.40%,16.34%,25.00%,6.0/10,3
+97,Motion Picture Projectionists,"35,160",-5.00%,100.00%,70.69%,0.9/10,3
+98,Freight Forwarders,"48,330",9.70%,83.90%,59.15%,4.2/10,3
+99,"Interviewers, Except Eligibility and Loan","40,300",-9.90%,64.67%,64.58%,2.9/10,3
+100,"Eligibility Interviewers, Government Programs","50,270",3.10%,74.73%,68.75%,3.1/10,3
+1,"Human Resources Assistants, Except Payroll and Timekeeping","47,710",-4.80%,80.24%,65.91%,2.6/10,3
+2,Tellers,"37,640",-14.70%,87.43%,88.05%,1.7/10,3
+3,Procurement Clerks,"46,670",-6.70%,86.62%,62.16%,2.1/10,3
+4,"Maintenance and Repair Workers, General","46,700",5.10%,36.86%,33.61%,5.6/10,3
+5,"Production, Planning, and Expediting Clerks","53,900",4.90%,100.00%,76.82%,3.3/10,3
+6,"Office Clerks, General","40,480",-5.60%,99.45%,77.83%,1.8/10,3
+7,Proofreaders and Copy Markers,"48,790",-3.40%,100.00%,70.60%,1.6/10,3
+8,Desktop Publishers,"51,290",-13.40%,69.76%,55.77%,2.0/10,3
+9,Word Processors and Typists,"46,450",-38.00%,100.00%,81.45%,1.3/10,3
+10,Urologists,"236,000",3.90%,0.00%,21.74%,8.5/10,3
+11,Telecommunications Line Installers and Repairers,"64,640",-2.70%,49.17%,35.48%,4.6/10,3
+12,Executive Secretaries and Executive Administrative Assistants,"70,310",0.20%,71.96%,60.27%,3.9/10,3
+13,Logging Equipment Operators,"48,240",-3.80%,96.13%,58.82%,2.1/10,3
+14,"Floor Layers, Except Carpet, Wood, and Hard Tiles","48,840",10.10%,44.94%,52.50%,5.0/10,3
+15,Stonemasons,"51,830",-3.60%,24.98%,52.66%,3.7/10,3
+16,Agricultural Equipment Operators,"39,690",8.40%,93.56%,81.82%,3.9/10,3
+17,"Telecommunications Equipment Installers and Repairers, Except Line Installers","61,270",-3.40%,45.49%,37.00%,5.0/10,3
+18,Boilermakers,"71,140",-1.20%,41.96%,34.46%,4.6/10,3
+19,"Electric Motor, Power Tool, and Related Repairers","49,230",5.00%,49.33%,52.50%,4.0/10,3
+20,Continuous Mining Machine Operators,"61,420",-1.80%,75.10%,59.21%,2.9/10,3
+21,Helpers--Carpenters,"39,380",-3.00%,57.40%,61.72%,2.2/10,3
+22,Paperhangers,"48,460",5.70%,67.24%,77.50%,4.1/10,3
+23,Industrial Machinery Mechanics,"61,420",17.20%,63.15%,38.39%,6.2/10,3
+24,Motorcycle Mechanics,"46,270",2.50%,48.21%,42.46%,3.8/10,3
+25,Rail Car Repairers,"65,030",4.40%,60.42%,53.89%,4.2/10,3
+26,Automotive Body and Related Repairers,"48,740",1.30%,48.36%,41.29%,4.4/10,3
+27,Slaughterers and Meat Packers,"38,160",1.40%,100.00%,68.60%,1.9/10,3
+28,"Pressers, Textile, Garment, and Related Materials","32,240",-12.00%,100.00%,76.25%,0.8/10,3
+29,Print Binding and Finishing Workers,"38,100",-17.50%,92.07%,84.38%,1.3/10,3
+30,Printing Press Operators,"41,860",-9.50%,77.56%,70.96%,1.9/10,3
+31,Farm Equipment Mechanics and Service Technicians,"49,210",11.40%,43.56%,38.33%,5.8/10,3
+32,Bus and Truck Mechanics and Diesel Engine Specialists,"58,970",2.80%,52.20%,30.42%,5.3/10,3
+33,Riggers,"56,220",4.90%,60.03%,43.33%,4.4/10,3
+34,Manufactured Building and Mobile Home Installers,"38,980",-19.60%,0.00%,33.93%,3.6/10,3
+35,First-Line Supervisors of Production and Operating Workers,"65,930",0.60%,46.33%,54.63%,4.5/10,3
+36,"Tool Grinders, Filers, and Sharpeners","46,410",-7.80%,100.00%,75.00%,1.8/10,3
+37,Musical Instrument Repairers and Tuners,"42,800",1.50%,54.33%,35.66%,3.4/10,3
+38,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","45,350",-8.90%,86.22%,54.76%,1.9/10,3
+39,Watch and Clock Repairers,"58,140",0.00%,92.76%,41.67%,3.2/10,3
+40,Gem and Diamond Workers,"47,450",-3.70%,100.00%,80.00%,2.6/10,3
+41,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","47,200",-12.90%,100.00%,80.95%,1.0/10,3
+42,Recycling Coordinators,"60,510",5.30%,53.52%,65.00%,5.4/10,3
+43,Aircraft Cargo Handling Supervisors,"58,920",7.70%,45.87%,35.00%,5.3/10,3
+44,Helpers--Production Workers,"36,700",-8.30%,100.00%,76.19%,1.1/10,3
+45,Sewing Machine Operators,"34,440",-13.20%,100.00%,69.87%,1.3/10,3
+46,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","44,620",-19.20%,100.00%,67.86%,1.8/10,3
+47,Biomass Plant Technicians,"97,010",-9.40%,70.36%,53.57%,3.9/10,3
+48,Power Distributors and Dispatchers,"104,750",-1.40%,52.17%,47.37%,4.4/10,3
+49,Power Plant Operators,"97,010",-9.40%,78.62%,52.08%,3.7/10,3
+50,"Tailors, Dressmakers, and Custom Sewers","36,650",-6.50%,84.86%,52.55%,1.6/10,3
+51,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","41,600",1.80%,74.30%,64.42%,2.4/10,3
+52,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","38,870",-2.50%,95.58%,75.00%,1.8/10,3
+53,"Bus Drivers, Transit and Intercity","60,170",5.20%,91.98%,58.57%,4.1/10,3
+54,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","45,560",1.20%,87.15%,86.11%,3.2/10,3
+55,"Stone Cutters and Carvers, Manufacturing","43,310",5.30%,61.54%,62.50%,4.2/10,3
+56,"Patternmakers, Wood","48,630",-13.50%,76.82%,79.55%,2.5/10,3
+57,Furniture Finishers,"39,790",-1.60%,57.35%,59.62%,2.7/10,3
+58,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers","63,540",1.50%,86.53%,68.75%,3.2/10,3
+59,"Inspectors, Testers, Sorters, Samplers, and Weighers","45,850",-3.00%,85.64%,65.38%,2.5/10,3
+60,Automotive and Watercraft Service Attendants,"33,820",-0.10%,69.88%,50.00%,2.5/10,3
+61,"Captains, Mates, and Pilots of Water Vessels","88,730",2.30%,33.96%,38.68%,5.5/10,3
+62,Traffic Technicians,"52,240",4.20%,61.16%,67.65%,3.2/10,3
+63,Subway and Streetcar Operators,"84,270",4.20%,80.71%,74.52%,3.6/10,3
+64,Computer Numerically Controlled Tool Operators,"48,550",-9.20%,87.05%,55.56%,2.5/10,3
+65,Water and Wastewater Treatment Plant and System Operators,"54,890",-6.00%,59.24%,37.31%,4.2/10,3
+66,Dietetic Technicians,"36,520",4.30%,38.62%,54.17%,4.1/10,3
+67,"Umpires, Referees, and Other Sports Officials","35,820",10.40%,66.10%,66.42%,3.3/10,3
+68,Media Technical Directors/Managers,"82,510",8.00%,56.56%,61.96%,5.8/10,3
+69,"Meat, Poultry, and Fish Cutters and Trimmers","36,300",4.70%,91.29%,64.29%,2.6/10,3
+70,Childcare Workers,"30,370",-1.30%,32.38%,19.55%,4.8/10,3
+71,Nannies,"30,370",-1.30%,23.68%,19.05%,5.1/10,3
+72,Cabinetmakers and Bench Carpenters,"43,260",-2.70%,64.65%,47.62%,3.2/10,3
+73,"Sewers, Hand","32,240",-12.20%,94.46%,75.33%,0.7/10,3
+74,"Electronic Equipment Installers and Repairers, Motor Vehicles","45,570",-13.20%,43.00%,50.00%,3.0/10,3
+75,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","47,110",-11.40%,100.00%,51.56%,1.8/10,3
+76,Engine and Other Machine Assemblers,"50,270",-21.30%,87.20%,70.65%,2.0/10,3
+77,Public Relations Specialists,"66,750",6.20%,22.39%,26.48%,7.4/10,3
+78,Mechanical Door Repairers,"48,650",11.40%,45.43%,50.00%,5.5/10,3
+79,"Teaching Assistants, All Other","35,550",-0.60%,56.15%,59.62%,3.6/10,3
+80,"Pourers and Casters, Metal","48,690",-6.70%,87.85%,65.63%,2.2/10,3
+81,Curators,"61,750",12.20%,6.11%,16.42%,7.5/10,3
+82,Manicurists and Pedicurists,"34,250",11.80%,81.06%,45.98%,4.2/10,3
+83,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","96,600",0.80%,41.79%,49.17%,4.8/10,3
+84,"Radio, Cellular, and Tower Equipment Installers and Repairers","61,310",6.80%,36.37%,29.03%,6.2/10,3
+85,Roofers,"50,030",5.80%,31.79%,39.02%,5.5/10,3
+86,"Insulation Workers, Floor, Ceiling, and Wall","47,540",2.70%,57.09%,51.92%,4.0/10,3
+87,Tile and Stone Setters,"48,910",10.40%,45.26%,28.13%,6.2/10,3
+88,Statistical Assistants,"50,510",0.20%,74.42%,75.00%,2.0/10,3
+89,"Rock Splitters, Quarry","46,530",2.80%,92.09%,94.64%,2.7/10,3
+90,Neuropsychologists,"117,750",5.00%,0.00%,22.95%,7.8/10,3
+91,Payroll and Timekeeping Clerks,"52,240",-15.10%,100.00%,79.17%,1.8/10,3
+92,Hospitalists,"236,000",3.90%,0.00%,28.33%,8.2/10,3
+93,Medical Transcriptionists,"37,060",-4.70%,100.00%,75.82%,1.3/10,3
+94,Physical Therapist Assistants,"64,080",25.40%,14.89%,34.32%,7.3/10,3
+95,Ophthalmic Medical Technicians,"41,780",14.10%,61.06%,42.50%,4.8/10,3
+96,Orthotists and Prosthetists,"78,100",15.10%,1.78%,33.33%,7.3/10,3
+97,Broadcast Announcers and Radio Disc Jockeys,"44,890",-4.00%,59.83%,42.89%,3.0/10,3
+98,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","30,380",6.80%,35.65%,25.79%,5.8/10,3
+99,Chemical Technicians,"56,750",5.50%,68.06%,52.74%,4.4/10,3
+100,Climate Change Policy Analysts,"78,980",7.30%,34.17%,31.25%,6.3/10,3
+1,Government Property Inspectors and Investigators,"75,670",5.40%,27.83%,68.18%,6.4/10,1
+2,Brownfield Redevelopment Specialists and Site Managers,"133,560",5.70%,11.13%,25.00%,7.4/10,1
+3,Cartographers and Photogrammetrists,"76,210",6.30%,59.64%,58.65%,4.6/10,1
+4,Remote Sensing Technicians,"58,350",5.80%,73.92%,83.33%,4.5/10,1
+5,"Geological Technicians, Except Hydrologic Technicians","52,440",3.80%,69.14%,46.05%,3.7/10,1
+6,"Environmental Science and Protection Technicians, Including Health","50,660",7.00%,31.67%,35.00%,5.2/10,1
+7,"Arbitrators, Mediators, and Conciliators","71,540",6.10%,50.14%,28.85%,5.8/10,1
+8,Home Health Aides,"33,530",20.70%,37.00%,30.36%,5.6/10,1
+9,"Agricultural Sciences Teachers, Postsecondary","85,260",4.80%,3.54%,35.71%,6.2/10,1
+10,"Nursing Instructors and Teachers, Postsecondary","80,780",17.90%,0.00%,42.65%,7.5/10,1
+11,"Forestry and Conservation Science Teachers, Postsecondary","101,650",5.00%,8.38%,25.00%,6.1/10,1
+12,"Sociology Teachers, Postsecondary","82,670",3.40%,22.91%,25.00%,5.5/10,1
+13,"Economics Teachers, Postsecondary","115,300",3.50%,53.17%,35.29%,5.7/10,1
+14,Customs and Border Protection Officers,"72,280",3.90%,42.18%,39.81%,5.8/10,1
+15,Ophthalmic Medical Technologists,"47,470",7.00%,55.69%,37.50%,5.2/10,1
+16,"Teaching Assistants, Special Education","35,550",-0.60%,56.15%,36.36%,4.0/10,1
+17,"Special Education Teachers, Middle School","66,600",-0.90%,15.43%,16.07%,5.0/10,1
+18,Adapted Physical Education Specialists,"67,190",2.10%,0.00%,20.45%,5.8/10,1
+19,Police Identification and Records Officers,"91,100",2.30%,53.69%,44.23%,5.1/10,1
+20,First-Line Supervisors of Firefighting and Prevention Workers,"86,220",4.20%,0.00%,26.32%,7.5/10,1
+21,Veterinary Assistants and Laboratory Animal Caretakers,"36,440",19.40%,51.81%,28.06%,5.8/10,1
+22,Pharmacy Aides,"36,200",0.90%,73.39%,56.52%,2.2/10,1
+23,Medical Equipment Preparers,"45,280",5.70%,73.93%,58.93%,4.1/10,1
+24,First-Line Supervisors of Gambling Services Workers,"61,210",5.20%,58.94%,83.33%,4.8/10,1
+25,"Locker Room, Coatroom, and Dressing Room Attendants","33,450",8.00%,90.97%,73.53%,2.7/10,1
+26,"Shipping, Receiving, and Inventory Clerks","39,780",-7.60%,86.39%,71.55%,2.0/10,1
+27,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","44,070",5.10%,71.52%,61.84%,3.2/10,1
+28,First-Line Supervisors of Housekeeping and Janitorial Workers,"46,650",4.00%,50.21%,55.00%,4.3/10,1
+29,Dining Room and Cafeteria Attendants and Bartender Helpers,"31,180",8.30%,69.48%,56.52%,3.9/10,1
+30,First-Line Supervisors of Food Preparation and Serving Workers,"38,520",6.30%,46.90%,50.00%,4.9/10,1
+31,Demonstrators and Product Promoters,"36,970",4.90%,59.09%,42.31%,3.8/10,1
+32,First-Line Supervisors of Personal Service Workers,"46,690",10.10%,29.86%,25.00%,5.5/10,1
+33,"Credit Authorizers, Checkers, and Clerks","48,000",-5.20%,100.00%,79.69%,1.6/10,1
+34,"Switchboard Operators, Including Answering Service","36,750",-25.20%,100.00%,82.14%,0.9/10,1
+35,Agricultural Inspectors,"48,010",3.90%,57.83%,55.77%,3.2/10,1
+36,Parts Salespersons,"36,860",1.20%,54.91%,72.50%,2.9/10,1
+37,Insurance Claims and Policy Processing Clerks,"46,900",-3.90%,100.00%,74.11%,1.8/10,1
+38,Camera and Photographic Equipment Repairers,"46,850",-16.90%,82.45%,76.92%,2.0/10,1
+39,Pile Driver Operators,"63,550",4.60%,74.32%,72.73%,3.4/10,1
+40,Solar Energy Installation Managers,"76,760",5.90%,15.36%,37.50%,7.0/10,1
+41,Electrical Power-Line Installers and Repairers,"85,420",7.60%,32.28%,22.50%,7.8/10,1
+42,"Excavating and Loading Machine and Dragline Operators, Surface Mining","50,050",-0.80%,63.52%,50.00%,3.2/10,1
+43,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","37,010",1.90%,71.89%,64.71%,2.1/10,1
+44,Elevator and Escalator Installers and Repairers,"102,420",5.70%,36.40%,23.31%,7.0/10,1
+45,"Service Unit Operators, Oil and Gas","55,750",2.10%,40.72%,46.15%,4.4/10,1
+46,"Rotary Drill Operators, Oil and Gas","61,770",2.20%,48.47%,51.92%,4.4/10,1
+47,"Derrick Operators, Oil and Gas","58,210",3.10%,54.87%,56.82%,3.9/10,1
+48,Septic Tank Servicers and Sewer Pipe Cleaners,"46,910",8.10%,56.64%,37.50%,5.0/10,1
+49,Tire Repairers and Changers,"35,790",5.30%,79.86%,52.38%,3.5/10,1
+50,Motorboat Mechanics and Service Technicians,"49,990",6.70%,62.87%,39.29%,4.8/10,1
+51,Automotive Glass Installers and Repairers,"45,320",2.00%,74.98%,54.17%,2.9/10,1
+52,Timing Device Assemblers and Adjusters,"48,840",-16.30%,100.00%,85.71%,2.0/10,1
+53,"Grinding and Polishing Workers, Hand","38,940",-17.80%,86.61%,86.46%,1.0/10,1
+54,Chemical Equipment Operators and Tenders,"51,720",-5.40%,79.95%,84.38%,3.3/10,1
+55,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","37,130",-11.80%,100.00%,70.83%,1.1/10,1
+56,Foundry Mold and Coremakers,"44,300",-24.60%,93.73%,61.11%,2.1/10,1
+57,"Patternmakers, Metal and Plastic","49,670",-22.20%,98.97%,95.00%,2.0/10,1
+58,Biofuels Processing Technicians,"56,940",3.20%,68.49%,62.50%,3.8/10,1
+59,Stationary Engineers and Boiler Operators,"67,640",4.10%,43.87%,54.88%,4.6/10,1
+60,Cooling and Freezing Equipment Operators and Tenders,"42,420",9.40%,75.83%,52.08%,3.8/10,1
+61,Museum Technicians and Conservators,"48,670",10.70%,39.79%,30.61%,6.0/10,1
+62,Tour Guides and Escorts,"36,060",9.50%,59.31%,54.21%,4.0/10,1
+63,Baggage Porters and Bellhops,"34,840",0.50%,58.84%,59.62%,2.8/10,1
+64,"Textile Cutting Machine Setters, Operators, and Tenders","36,620",-11.70%,100.00%,64.47%,0.8/10,1
+65,Prepress Technicians and Workers,"45,070",-18.50%,91.93%,75.89%,1.4/10,1
+66,"Mobile Heavy Equipment Mechanics, Except Engines","61,900",8.50%,45.93%,29.17%,6.8/10,1
+67,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","66,680",1.20%,54.87%,26.83%,5.3/10,1
+68,Shampooers,"29,530",9.50%,69.81%,70.83%,3.7/10,1
+69,Helpers--Extraction Workers,"45,520",1.80%,62.54%,78.13%,3.0/10,1
+70,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","42,470",-9.10%,52.89%,53.75%,2.4/10,1
+71,First-Line Supervisors of Construction Trades and Extraction Workers,"76,760",5.90%,16.94%,32.14%,7.0/10,1
+72,"Dispatchers, Except Police, Fire, and Ambulance","46,860",0.20%,73.00%,64.62%,2.7/10,1
+73,"Roustabouts, Oil and Gas","46,340",5.50%,62.72%,60.00%,4.2/10,1
+74,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services","46,060",9.10%,26.63%,6.25%,5.7/10,1
+75,"Anthropology and Archeology Teachers, Postsecondary","93,650",3.80%,0.00%,28.41%,7.0/10,1
+76,Reinforcing Iron and Rebar Workers,"54,850",4.20%,47.34%,38.89%,4.9/10,1
+77,Funeral Attendants,"33,850",3.20%,65.68%,34.09%,3.7/10,1
+78,Equal Opportunity Representatives and Officers,"75,670",5.40%,34.05%,33.33%,6.2/10,1
+79,Floor Sanders and Finishers,"47,760",2.50%,57.28%,60.71%,3.4/10,1
+80,Spa Managers,"57,570",6.90%,35.27%,47.73%,5.3/10,1
+81,"Education Administrators, Postsecondary","102,610",2.90%,16.08%,31.42%,7.0/10,1
+82,Carpet Installers,"47,520",-8.90%,45.17%,38.24%,3.6/10,1
+83,Biomass Power Plant Managers,"116,970",2.80%,25.90%,50.00%,6.3/10,1
+84,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","42,670",2.70%,99.90%,68.75%,2.7/10,1
+85,"Education and Childcare Administrators, Preschool and Daycare","54,290",-2.10%,6.56%,23.48%,5.7/10,1
+86,Community Health Workers,"48,200",13.10%,17.07%,29.17%,6.3/10,1
+87,Postmasters and Mail Superintendents,"88,670",-3.00%,49.04%,78.75%,3.2/10,1
